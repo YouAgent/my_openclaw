@@ -1484,6 +1484,9 @@ export const GENERATED_BASE_CONFIG_SCHEMA = {
               repoRoot: {
                 type: "string",
               },
+              personaRules: {
+                type: "string",
+              },
               skipBootstrap: {
                 type: "boolean",
               },
